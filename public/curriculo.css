@@ -1,0 +1,53 @@
+.img-fundo{
+  height: 30px;
+}
+.titulo-principal{
+  font-family: 'Notable', sans-serif;
+  text-align : center;
+}
+body{
+  font-family: 'Courgette', sans-serif;
+  background-size:100% 100%;
+  margin: 0 0 0 0;
+  background-image: linear-gradient(to bottom,rgb(253, 93, 163),rgb(151, 5, 61));
+  display:flex;
+  flex-direction: column;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+.titulo{
+  font-family: 'Notable', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  font-size:40px;
+  line-height: 1.5;
+}
+.subtitulo{
+  font-family: 'Notable', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  font-size:40px;
+  line-height: 1.5;
+}
+p {
+  font-size: 25px;
+  line-height: 1.5;
+}
+a{
+  align-items: center;
+}
+.gmail{
+  width: 16px;
+}
+.facebook{
+  width: 16px;
+}
+.whatsapp{
+  width: 16px;
+}
+.telefone{
+  width: 16px;
+}
+.local{
+  width: 16px;
+}
